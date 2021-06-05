@@ -8,21 +8,25 @@ server in port 4040.
 
 How to set up the project:
 
-1. clone or download repositorie
-2. in terminal write
+1. Clone or download repository https://github.com/myaryhin0201/HexOcean_FE
+2. In terminal write
 
 ```
 npm i
 ```
 
-3. to start local server, in terminal write
+3. To start local server, in terminal write
 
 ```
 npm run serve
 ```
 
-4. open website
+4. open website https://hexoceanfemaksyary.netlify.app/
 
-Node version -- Npm version --
+5. that's all )
+
+## Node version -- 14.17.0
+
+## Npm version -- 6.14.13
 
 Time to perform the task : 6 hours
