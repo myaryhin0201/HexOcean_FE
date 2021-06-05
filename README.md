@@ -18,7 +18,7 @@ npm i
 3. To start local server, in terminal write
 
 ```
-npm run serve
+npm run server
 ```
 
 4. open website https://hexoceanfemaksyary.netlify.app/
